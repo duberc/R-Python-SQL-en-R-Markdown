@@ -1,53 +1,53 @@
-Name;Region;Location
-Alabama;AL;Sureste
-Alaska;AK;Costa Oeste
-Arizona;AZ;Suroeste 
-Arkansas;AR;Sureste
-California;CA;Costa Oeste
-Colorado;CO;Oeste
-Connecticut;CT;Costa Este
-Delaware;DE;Costa Este
-District of Columbia;DC;Costa Este
-Florida;FL;Costa Este
-Georgia;GA;Costa Este
-Hawaii;HI;Oeste
-Idaho;ID;Noroeste
-Illinois;IL;Medio Oeste
-Indiana;IN;Medio Oeste
-Iowa;IA;Medio Oeste
-Kansas;KS;Medio Oeste
-Kentucky;KY;Sureste
-Louisiana;LA;Sureste
-Maine;ME;Costa Este
-Maryland;MD;Costa Este
-Massachusetts;MA;Costa Este
-Michigan;MI;Medio Oeste
-Minnesota;MN;Medio Oeste
-Mississippi;MS;Sureste
-Missouri;MO;Medio Oeste
-Montana;MT;Oeste
-Nebraska;NE;Medio Oeste
-Nevada;NV;Suroeste 
-New Hampshire;NH;Costa Este
-New Jersey;NJ;Costa Este
-New Mexico;NM;Suroeste 
-New York;NY;Costa Este
-North Carolina;NC;Costa Este
-North Dakota;ND;Medio Oeste
-Ohio;OH;Medio Oeste
-Oklahoma;OK;Suroeste 
-Oregon;OR;Costa Oeste
-Pennsylvania;PA;Costa Este
-Rhode Island;RI;Costa Este
-South Carolina;SC;Costa Este
-South Dakota;SD;Medio Oeste
-Tennessee;TN;Sureste
-Texas;TX;Suroeste 
-Utah;UT;Oeste
-Vermont;VT;Costa Este
-Virginia;VA;Costa Este
-Washington;WA;Costa Oeste
-West Virginia;WV;Sureste
-Wisconsin;WI;Medio Oeste
-Wyoming;WY;Oeste
-Puerto Rico;PR;Puerto Rico
+Name,Region,Location
+Alabama,AL,Sureste
+Alaska,AK,Costa Oeste
+Arizona,AZ,Suroeste 
+Arkansas,AR,Sureste
+California,CA,Costa Oeste
+Colorado,CO,Oeste
+Connecticut,CT,Costa Este
+Delaware,DE,Costa Este
+District of Columbia,DC,Costa Este
+Florida,FL,Costa Este
+Georgia,GA,Costa Este
+Hawaii,HI,Oeste
+Idaho,ID,Noroeste
+Illinois,IL,Medio Oeste
+Indiana,IN,Medio Oeste
+Iowa,IA,Medio Oeste
+Kansas,KS,Medio Oeste
+Kentucky,KY,Sureste
+Louisiana,LA,Sureste
+Maine,ME,Costa Este
+Maryland,MD,Costa Este
+Massachusetts,MA,Costa Este
+Michigan,MI,Medio Oeste
+Minnesota,MN,Medio Oeste
+Mississippi,MS,Sureste
+Missouri,MO,Medio Oeste
+Montana,MT,Oeste
+Nebraska,NE,Medio Oeste
+Nevada,NV,Suroeste 
+New Hampshire,NH,Costa Este
+New Jersey,NJ,Costa Este
+New Mexico,NM,Suroeste 
+New York,NY,Costa Este
+North Carolina,NC,Costa Este
+North Dakota,ND,Medio Oeste
+Ohio,OH,Medio Oeste
+Oklahoma,OK,Suroeste 
+Oregon,OR,Costa Oeste
+Pennsylvania,PA,Costa Este
+Rhode Island,RI,Costa Este
+South Carolina,SC,Costa Este
+South Dakota,SD,Medio Oeste
+Tennessee,TN,Sureste
+Texas,TX,Suroeste 
+Utah,UT,Oeste
+Vermont,VT,Costa Este
+Virginia,VA,Costa Este
+Washington,WA,Costa Oeste
+West Virginia,WV,Sureste
+Wisconsin,WI,Medio Oeste
+Wyoming,WY,Oeste
+Puerto Rico,PR,Puerto Rico
